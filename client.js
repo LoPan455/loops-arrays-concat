@@ -34,6 +34,6 @@ return newString;
 
 
 }
-
+}
 console.log(concatArrayIndices(myArray,1));
 console.log(concatArrayIndices(myArray,5));
